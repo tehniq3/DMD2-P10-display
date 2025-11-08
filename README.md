@@ -1,6 +1,8 @@
 now used https://github.com/freetronics/DMD2 library
 
-actual articels:
+PCB/scchematic for actual design and for future projects: https://www.pcbway.com/project/shareproject/Adjusting_RTC_clock_on_P10_display_8a2bc1fb.html
+
+actual articles:
 - https://nicuflorica.blogspot.com/2025/11/ceas-pe-afisaj-p10-cu-32x16-leduri-2.html
 - https://nicuflorica.blogspot.com/2025/11/ceas-cu-reglaj-pe-afisaj-p10-de-32x16.html
 - https://nicuflorica.blogspot.com/2025/11/ceas-cu-reglaj-pe-afisaj-p10-de-32x16_2.html
