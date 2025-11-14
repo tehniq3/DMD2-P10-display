@@ -7,7 +7,8 @@ actual articles:
 - https://nicuflorica.blogspot.com/2025/11/ceas-cu-reglaj-pe-afisaj-p10-de-32x16.html
 - https://nicuflorica.blogspot.com/2025/11/ceas-cu-reglaj-pe-afisaj-p10-de-32x16_2.html
 - https://nicuflorica.blogspot.com/2025/11/ceas-cu-reglaj-pe-afisaj-p10-de-32x16_10.html
-- https://nicuflorica.blogspot.com/2025/11/ceas-cu-reglaj-si-termometruhigrometru.html 
+- https://nicuflorica.blogspot.com/2025/11/ceas-cu-reglaj-si-termometruhigrometru.html
+- https://nicuflorica.blogspot.com/2025/11/ceas-cu-reglaj-si-termometruhigrometru_14.html
 
 my previous articles:
 - https://nicuflorica.blogspot.com/2020/01/ceas-pe-afisaj-p10-cu-32x16-leduri.html
